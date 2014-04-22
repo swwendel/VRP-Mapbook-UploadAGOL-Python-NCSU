@@ -43,14 +43,14 @@ Note: This may not work with your data. Make sure to setup the VRP data to use t
 * Network Analyst License
 * ArcGIS Online Organization account with upload and publishing permissions.
 * requests 2.2.1 python module found at:
-    *Github:https://github.com/kennethreitz/requests
-    *pypi: https://pypi.python.org/pypi/requests
+	*Github:https://github.com/kennethreitz/requests
+	*pypi: https://pypi.python.org/pypi/requests
 
 
 ## Resources
 
 [ArcGIS Help 10.1, Vehicle routing problem analysis](http://resources.arcgis.com/en/help/main/10.1/index.html#//00470000004v000000)
-[ArcGIS REST API] http://resources.arcgis.com/en/help/arcgis-rest-api/index.html#//02r300000054000000
+[ArcGIS REST API](http://resources.arcgis.com/en/help/arcgis-rest-api/index.html#//02r300000054000000)
 DataSources.txt - provides the sources of the sample data used in this example.
 
 ## Issues
