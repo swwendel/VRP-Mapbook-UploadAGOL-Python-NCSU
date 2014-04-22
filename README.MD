@@ -1,12 +1,11 @@
 # VRP-Mapbook-UploadAGOL-Python-NCSU
 
-## Summary
+
+## Features
 
 This is my final project for GIS 540 at NCSU. 
 
 A Vehicle Routing Problem (VRP) is used to find routes for multiple stops and multiple vehicles in order to provide the best services at the lowest cost. For example, a package delivery service might use this to send your package on the quickest route to be delivered. They have many starting locations, stops, and trucks to fit into this equation to produce the best service. The output in ArcGIS Desktop might be easy for a GIS Analyst to read and understand, but the non-GIS users, such as drivers, need a simplified version of the information to do their part. The goal of this tool is to demonstrate how to generate PDF reports with maps and directions for a VRP analysis. This solution also takes advantage of ArcGIS Online to store the PDFs as well as the routes as feature services to use within web maps. The route feature services can be viewed by the driver in phone applications such as ArcGIS Online App to view their route and stay on track. This solution can be utilized by any industry that needs to produce map and turn by turn directions for its employees who need to travel to specific destinations, for example; pizza delivery, City Inspectors going to do inspections locations, delivering packages, etc. The point is to simplify the process of doing a VRP and to produce a user friendly information for the employee to follow.
-
-## Features
 
 * VRPS.py - Functions and classes used in the solution.
 * Project_core_sawendel.py - Core file that handles the VRP solution and processing of the solution to make directions, a mapbook pdf, feature services and a webmap. 
